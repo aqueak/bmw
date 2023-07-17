@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style:none;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+.menu{
+    background-color: rgb(0, 0, 0);
+    height: 120px;
+}
+.menu ul{
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    margin-left: 380px;
+}
+.menu ul li {
+    margin-top: -70px;
+    padding-left: 55px;  
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+}
+.menu ul li a:hover{
+    transition: 0.5s;
+    color: rgb(0, 220, 228);
+}
+.menu .logo img{
+    height: 113px;
+    width: 120px;
+    margin-left: 120px;
+    margin-top:0px;
+    
+}
+.section .resim img{
+    width: 1523px;
+    height: 800px;
+}
+.section .resim button{
+    background-color: blue;
+    color:white;
+    height: 60px;
+    width: 170px;
+    font-size: 23px;
+    border: none;
+    border-radius:16px;
+    
+}
+.section button:hover{
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+}
+.box{
+    background-color: white;
+    width: 1343;
+    height: 250px;
+}
+.box button{
+    height: 50px;
+    width: 190px;
+    border-radius: 12px;
+    margin-top: 100px;
+    margin-left: 220px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.box button:hover{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.box3{
+    background-color: white;
+    height: 300px;
+    font-size: 22px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.resim2 img{
+    width: 1523px;
+    height: 650px;
+}
+.metin{
+    margin-left: 75px;
+}
+.boxs{
+    display: flex; 
+    padding:50px 50px 50px 50px;
+    
+}
+.kutu1{
+    margin-left: 50px;
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.kutu1 img{
+    height: 250px;
+    width: 420px;
+    padding-right: 40px;
+}
+.kutu2{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.kutu2 img{
+    height: 250px;
+    width: 420px;
+    padding-right: 40px;
+}
+.kutu3{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.kutu3 img{
+    height: 250px;
+    width: 420px;
+    padding-right: 40px;
+}
+.footer{
+    background-color: white;
+    height: 200px;
+}
+.footer p{
+    margin-top: 170px;
+    font-size: 19px;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
